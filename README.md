@@ -17,8 +17,6 @@
 
 ## Repositories
 
-Public repositories sorted by stars.
-
 - 48 [ViMusic](https://github.com/haturatu/ViMusic)
   - lightweight music player for Android
 - 8 [puremania](https://github.com/haturatu/puremania)
