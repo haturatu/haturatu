@@ -17,7 +17,7 @@
 
 ## Repositories
 
-### Infrastructure & DevOps
+### Infra
 
 - [cftf](https://github.com/haturatu/cftf)
   - Terraform configuration for Cloudflare infrastructure and security
@@ -139,7 +139,7 @@
 - [libmmd](https://github.com/haturatu/libmmd)
   - C++20 library for PMX models, VMD motions, and VPD poses
 
-### Embedded & Hardware
+### Hardaware
 
 - [esp32c6](https://github.com/haturatu/esp32c6)
   - ESP32-C6 projects including Daikin air conditioner IR control
