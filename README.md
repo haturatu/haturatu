@@ -17,6 +17,38 @@
 
 ## Repositories
 
+- [perpetui](https://github.com/haturatu/perpetui)
+  - TUI for monitoring perpetual futures charts and positions across exchanges
+- [f2b-api](https://github.com/haturatu/f2b-api)
+  - Fail2ban observation API using Cloudflare Workers and D1
+- [kathttp3](https://github.com/haturatu/kathttp3)
+  - native HTTP/3 client for Android using Kotlin and C++
+- [cftf](https://github.com/haturatu/cftf)
+  - Terraform configuration for Cloudflare infrastructure and security
+- [aur-packages](https://github.com/haturatu/aur-packages)
+  - manage, validate, and publish AUR packages
+- [pmxer](https://github.com/haturatu/pmxer)
+  - cross-platform PMX model editor with GUI and CLI
+- [mikumikudesu](https://github.com/haturatu/mikumikudesu)
+  - Vulkan-based MMD model and motion editor for Linux
+- [libmmd](https://github.com/haturatu/libmmd)
+  - C++20 library for PMX models, VMD motions, and VPD poses
+- [caroline](https://github.com/haturatu/caroline)
+  - collect and search Docker logs across multiple hosts
+- [starryeyes](https://github.com/haturatu/starryeyes)
+  - media conversion service with resumable uploads and sandboxed FFmpeg workers
+- [esp32c6](https://github.com/haturatu/esp32c6)
+  - ESP32-C6 projects including Daikin air conditioner IR control
+- [esp32s3](https://github.com/haturatu/esp32s3)
+  - ESP32-S3 experiments and hardware projects
+- [video-thumbnail-range-sample](https://github.com/haturatu/video-thumbnail-range-sample)
+  - Android sample for video thumbnails using HTTP Range requests
+- [gpgfile.sh](https://github.com/haturatu/gpgfile.sh)
+  - POSIX shell script to archive and encrypt files with GPG
+- [dns-lego-dns01-cert-update](https://github.com/haturatu/dns-lego-dns01-cert-update)
+  - automate DNS-01 certificate issuance and renewal with lego
+- [haturatu-pc-memories-2012-2014-xp-to-win7](https://github.com/haturatu/haturatu-pc-memories-2012-2014-xp-to-win7)
+  - archive of PC memories from the Windows XP to Windows 7 era
 - [ViMusic](https://github.com/haturatu/ViMusic)
   - lightweight music player for Android
 - [puremania](https://github.com/haturatu/puremania)
@@ -57,8 +89,6 @@
   - DOM parsing with headless Chrome
 - [dotfiles](https://github.com/haturatu/dotfiles)
   - personal dotfiles and shell environment setup
-- [haturatu](https://github.com/haturatu/haturatu)
-  - here
 - [setup](https://github.com/haturatu/setup)
   - machine setup scripts and configuration
 - [hyperliquid-discord-monitor](https://github.com/haturatu/hyperliquid-discord-monitor)
@@ -69,22 +99,14 @@
   - CLI implementation of the ascii-rock series
 - [cryptui](https://github.com/haturatu/cryptui)
   - terminal UI for cryptocurrency charts
-- [yt-dlp-batch](https://github.com/haturatu/yt-dlp-batch)
-  - batch wrapper around yt-dlp
 - [gh-review-notify](https://github.com/haturatu/gh-review-notify)
   - send Slack webhook notifications for GitHub review requests and mentions
 - [farfetch](https://github.com/haturatu/farfetch)
   - small repo for a pull request or patch experiment
 - [truth-social-monitor](https://github.com/haturatu/truth-social-monitor)
   - monitor Truth Social without paid APIs
-- [lkbc](https://github.com/haturatu/lkbc)
-  - tests for Linux kernel build configuration
-- [udp](https://github.com/haturatu/udp)
-  - UDP-related experiments and utilities
 - [gscp](https://github.com/haturatu/gscp)
   - parallelized scp using the Go runtime
-- [ws-btc-get-price](https://github.com/haturatu/ws-btc-get-price)
-  - fetch Bitcoin price over WebSocket
 - [safescp](https://github.com/haturatu/safescp)
   - safely copy large numbers of files with scp
 - [dnsmasqconf](https://github.com/haturatu/dnsmasqconf)
@@ -97,20 +119,10 @@
   - media downloader for X
 - [vim-miku](https://github.com/haturatu/vim-miku)
   - Vim plugin or theme related to Miku
-- [soulminigrig-blog-comments](https://github.com/haturatu/soulminigrig-blog-comments)
-  - comment repository for a blog
-- [x-status-get](https://github.com/haturatu/x-status-get)
-  - fetch status data from X
-- [ringbuffer](https://github.com/haturatu/ringbuffer)
-  - ring buffer implementation experiments
-- [codex-write-ght](https://github.com/haturatu/codex-write-ght)
-  - Codex-generated companion repo for ght
 - [supervisord-openrc](https://github.com/haturatu/supervisord-openrc)
   - OpenRC service setup for supervisord
 - [alphaillustrated](https://github.com/haturatu/alphaillustrated)
   - alphaillustrated project or site source
-- [hello-asm](https://github.com/haturatu/hello-asm)
-  - hello world in assembly language
 - [xsrftoken](https://github.com/haturatu/xsrftoken)
   - package for XSRF token handling (SHA256-based)
 - [udpf](https://github.com/haturatu/udpf)
